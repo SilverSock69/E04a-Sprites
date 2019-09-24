@@ -1,5 +1,7 @@
 # E04a-Sprites Exercise
 
+In each main file, there will be a task each source will attempt. Using each main file will direct the user to a pop up from python arcade, and deals with sprites. The different main files all deal with sprites in different ways. main1.py should upload 20 random animal sprites onto the screen. main2.py will show a crocodile and pig sprite with emotes. main3.py will have a moose follow the mouse. Finally, main4.py will show 10 different sprites, not animal sprites however.
+
 This is an exercise to start experimenting with sprites in Python Arcade. This repository assumes that you have Python Arcade installed.
 
 The exercise takes place across three files:
